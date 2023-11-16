@@ -1,0 +1,11 @@
+.inputFilter {
+  width: 200px;
+  height: 25px;
+  border-radius: 10px;
+  border-color: azure;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.inputFilter:hover {
+  border-color: black;
+}

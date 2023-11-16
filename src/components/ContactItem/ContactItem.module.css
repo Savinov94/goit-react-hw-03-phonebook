@@ -1,0 +1,22 @@
+.contactsItem {
+  width: 250px;
+  display: flex;
+  align-items: center;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.contactsText {
+  margin-left: 15px;
+}
+
+.contactsButton {
+  background-color: aliceblue;
+  border-radius: 40%;
+  border-color: aliceblue;
+  margin-left: auto;
+}
+
+.contactsButton:hover {
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+}

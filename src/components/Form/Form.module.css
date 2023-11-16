@@ -1,0 +1,32 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.input {
+  width: 200px;
+  height: 25px;
+  border-radius: 10px;
+  border-color: azure;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.input:hover {
+  border-color: black;
+}
+
+.formButton {
+  width: 100px;
+  height: 25px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.formButton:hover {
+  background-color: black;
+  color: azure;
+}
